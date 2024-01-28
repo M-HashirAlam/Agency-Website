@@ -139,7 +139,7 @@ const Home = ({ frontmatter }) => {
           </section>
         );
       })}
-      
+      <CounterComponent />
       {/* workflow */}
       <section className="section pb-0">
         <div className="mb-8 text-center">
